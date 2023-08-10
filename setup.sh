@@ -16,6 +16,8 @@ pip3 install pandas
 pip3 install scikit-learn
 pip3 install matplotlib
 pip3 install onnx
+pip3 install slugify
+pip3 install tqdm
 
 
 mkdir .kaggle
